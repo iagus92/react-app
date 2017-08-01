@@ -11,7 +11,7 @@ class App extends Component {
           <h2>Bienvenido a React</h2>
         </div>
         <p className="App-intro">
-          Para empezar, edita <code>src/App.js</code> y guarda para recargar la página.
+          Para empezar, edita <code>src/App.js</code> y guarda para recargar la página web.
         </p>
       </div>
     );
